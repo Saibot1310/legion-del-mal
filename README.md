@@ -47,6 +47,7 @@ README.md          → Documento principal de la Legión del Mal
 - **Catwoman** — Robos de alta precisión
 - **Venom** — Fuerza bruta y operaciones de intimidación
 - **Green Goblin** — Tecnología avanzada y tácticas de terror
+- **Harley Quinn** — Psicología del enemigo y operaciones de manipulación
 
 ## Reglas de la Legión
 
