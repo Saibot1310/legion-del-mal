@@ -19,7 +19,7 @@ README.md          → Documento principal de la Legión del Mal
 📄 nuevas-misiones.yaml    → Estado global de las nuevas misiones
 ```
 
-## El Consejo de Villanos
+## El Consejo de Villanos!!
 
 | Rango                     | Miembro    | Rol                                                     |
 | ------------------------- | ---------- | ------------------------------------------------------- |
