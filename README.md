@@ -37,6 +37,7 @@ README.md          → Documento principal de la Legión del Mal
 | 🥈 Segundo al mando       | Magneto    | Estratega militar y reclutamiento de mutantes           |
 | 🥉 Jefa de infiltración   | Mystique   | Espionaje, identidades falsas y operaciones encubiertas |
 | ⚙️ Director de tecnología | Brainiac   | Sistemas, armamento y recopilación de datos             |
+| 🧪 Científico jefe          | Dr. Octopus | Experimentos y desarrollo de armas biológicas          |
 
 ## Miembros activos (campo)
 
