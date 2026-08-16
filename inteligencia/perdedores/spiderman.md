@@ -11,3 +11,8 @@ Spiderman es un superheroe de Marvel Comics, creado por el escritor Stan Lee y e
 - Spider-Man: Homecoming (2017)
 - Spider-Man: Far From Home (2019)
 - Spider-Man: No Way Home (2021)
+
+## Conocidos
+- Mary Jane Watson
+- Gwen Stacy
+- Aunt May
