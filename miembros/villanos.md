@@ -7,7 +7,7 @@
 5. Harley Quinn
 6. Darkseid
 7. Thanos
-
+8. Magneto
 
 # Notas
 Esto es un archivo de ejemplo que contiene una lista de villanos conocidos en el universo de DC Comics. Cada uno de estos personajes tiene su propia historia y motivaciones que los hacen antagonistas memorables para los héroes.
