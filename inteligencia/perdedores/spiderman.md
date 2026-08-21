@@ -16,3 +16,7 @@ Spiderman es un superheroe de Marvel Comics, creado por el escritor Stan Lee y e
 - Mary Jane Watson
 - Gwen Stacy
 - Aunt May
+
+## Estrategia recomendada
+
+Para derrotar a Spiderman, es importante tener en cuenta su agilidad y reflejos rápidos. Se recomienda utilizar ataques a distancia y trampas para limitar su movilidad. Además, aprovechar su sentido arácnido puede ser clave para anticipar sus movimientos y planificar ataques estratégicos.
